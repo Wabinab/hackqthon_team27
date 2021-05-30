@@ -29,6 +29,10 @@ There are further improvements that could be done since some real quantum comput
 
 This would also allow us to create circuits that gives us targeted output. If someone only knows the output without knowing which gate and their combination will give the output, they could use this "tuner" to tune the gate to their desired state. The problem will be defined by the user and together with the more popular reinforcement learning methods on placing gates at certain qubits for tuning in some research (no links here because cannot remember where it is seen), to create a result-driven circuit. 
 
+### Inspiration
+
+Thanks to Amira Abbas from this video: https://www.youtube.com/watch?v=r6lZDlNU2JU 
+
 ### Miscellaneous
 
 The link to the github repo of second mini project: https://github.com/hjk068/team27_project2_object_recognition
