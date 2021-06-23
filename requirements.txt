@@ -1,0 +1,5 @@
+qiskit[all]
+tensorflow
+tqdm
+pandas
+numpy
